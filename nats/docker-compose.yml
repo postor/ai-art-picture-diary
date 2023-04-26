@@ -1,0 +1,10 @@
+version: '3.9'
+services:
+  nats:
+    image: nats:latest
+    volumes:
+      - ./nats.config:/nats.config
+    ports:
+      - "4222:4222"
+
+    command: ["--config", "/nats.config"]
