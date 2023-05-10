@@ -3,7 +3,7 @@
 这是一个使用 ChatGPT 和 Stable Diffusion 自动给你的日记配图的应用
 an app that automatically generate pictures for your diary, with help of ChatGPT and Stable Diffusion
 
-![screenshot](./screenshot.gif)
+[![screenshot](https://img.youtube.com/vi/oh4CcihBrHg/0.jpg)](https://www.youtube.com/watch?v=oh4CcihBrHg)
 
 ## 项目由来 | why this project
 
